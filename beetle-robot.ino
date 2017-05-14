@@ -1,3 +1,4 @@
+// https://github.com/beetle-ringo/arduino/blob/master/ir_ringo/ir_ringo.ino
 // EN: We use special library to receive and decode commands from IR remote.
 // RU: Подключаем специальную библиотеку, предоставляющую функции
 //     приёма и передачи ИК-команд. Сайт проекта:
